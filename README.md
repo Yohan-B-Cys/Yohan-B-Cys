@@ -2,7 +2,7 @@
 
 _Estudante de Análise e Desenvolvimento de Sistemas na UFPR | Desenvolvedor Full-Stack em Formação_
 
-Atualmente estou buscando a minha primeira oportunidade de estágio em desenvolvimento de software. Combino uma sólida base lógica com o desenvolvimento de soluções escaláveis e eficientes.
+Atualmente estou no Progama de Estagio da Britania Eletrodomesticos aplicando desenvolvimento fullStack de software. Combino uma sólida base lógica com o desenvolvimento de soluções escaláveis e eficientes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yohan-cys)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cysyohan@gmail.com)
